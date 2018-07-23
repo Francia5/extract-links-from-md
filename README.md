@@ -68,9 +68,9 @@ En la consola ejecuta el comando **node getLink.js** y objendras los links que c
 
 ### Browser
 
-Incluye en tu HTML el siguiente 'script'
+Incluye en tu HTML el siguiente \<script>
 
-[<[script src="./lib/getLinkInput.js"></script]>]
+\<script src="./lib/getLinkInput.js"></script>
 
 #### Ingresa el texto en el recuedro y da click en GetLink
 
