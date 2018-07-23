@@ -1,5 +1,5 @@
 {
-  "name": "extract-links-from-md",
+  "name": "get-the-link-markdown",
   "version": "1.0.0",
   "description": "* **Track:** _Common Core_\r * **Curso:** _JS Deep Dive: Crea tu propia librería usando JavaScript_\r * **Unidad:** _Producto final_",
   "main": "index.js",

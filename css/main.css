@@ -1,0 +1,59 @@
+body {
+   box-sizing: border-box;
+}
+
+.container {
+   background-image: url(../css/assets/images/data.jpg);
+   background-repeat: no-repeat;
+   height: 100%;
+   opacity: 0.7;
+   width: 100%;
+}
+
+h1 {
+   background-color: white;
+   color: rgb(1, 1, 51);
+   font-family: 'Trebuchet MS', sans-serif;
+   font-size: 6em;
+   text-align: center;
+}
+
+textarea {
+   border: 4px rgb(117, 173, 238);
+   border-style: ridge;
+   background: white;
+   font-family: 'Trebuchet MS', sans-serif;
+   height: 100%;
+   margin: 4em;
+   width: 80%;
+}
+
+i {
+   color: white;
+   width: 100%;
+}
+
+button {
+   background-color: white;
+   border-color: 2px rgb(1, 1, 51);
+   border-style: solid;
+   height: 100%;
+   margin: 2em;
+   padding: 1em;
+   width: 80%;
+}
+
+#boton {
+   color: rgb(1, 1, 51);
+   font-family: 'Trebuchet MS', sans-serif;
+}
+
+#showResult {
+   border: 4px rgb(117, 173, 238);
+   border-style: ridge;
+   background: white;
+   font-family: 'Trebuchet MS', sans-serif;
+   height: 100%;
+   margin: 4em;
+   width: 80%;
+}

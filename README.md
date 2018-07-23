@@ -3,7 +3,7 @@
 * **Track:** _Common Core_
 * **Curso:** _JS Deep Dive: Crea tu propia librería usando JavaScript_
 * **Unidad:** _Producto final_
-* **Equipo:** _Alex, Henie y Francia_
+* **Equipo:** _Alex y Francia_
 
 ***
 
@@ -39,4 +39,48 @@ console.log(links);
 ```
 ## Uso de Usuario 
 
-Es necesario descargar npm 
+# Get Link
+
+**Get Link** extrae links de textos en formato markdown como módulo en Node.js y desde el browser.
+
+## Instalación
+
+Inicia npm con el siguiente comando en tu terminal:
+
+   npm init
+
+
+Instala, en el directorio raiz de tu proyecto, el siguiente comando en tu terminal:
+
+   npm install get-the-link-markdown
+
+## Uso
+
+### Node
+
+Entra en la carpeta **lib** y guarda, con nombre **README.md**, el archivo del que requieras extraer los links.
+
+![GetLink](./css/assets/images/GetImage-3.png)
+
+En la consola ejecuta el comando **node getLink.js** y objendras los links que contiene el archivo en un array de objetos.
+
+![GetLink](./css/assets/images/GetImage-4.png)
+
+### Browser
+
+Incluye en tu HTML el siguiente 'script'
+
+[<[script src="./lib/getLinkInput.js"></script]>]
+
+#### Ingresa el texto en el recuedro y da click en GetLink
+
+![GetLink](./css/assets/images/GetImage-1.png)
+
+#### En la parte inferior tendras como resultado un array con objetos
+
+![GetLink](./css/assets/images/GetImage-2.png)
+
+
+## Autoras
+
+Francia Vázquez & Alejandra Durán
