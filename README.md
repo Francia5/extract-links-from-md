@@ -40,7 +40,3 @@ console.log(links);
 ## Uso de Usuario 
 
 Es necesario descargar npm 
-dfgdfgdfgdfg
-fghfghfsdvcc
-
-
