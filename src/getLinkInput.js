@@ -12,7 +12,6 @@ const getLinkInput = () => {
 
     const urlRegex = /\((\w+.+?)\)/gi;
     console.log(resultInput);
-    console.log("prueba");
     const finalResult = [];
 
     for (let i = 0; i < resultInput.length; i++) {
