@@ -58,7 +58,7 @@ Instala, en el directorio raiz de tu proyecto, el siguiente comando en tu termin
 
 ### Node
 
-Entra en la carpeta **lib** y guarda, con nombre **README.md**, el archivo del que requieras extraer los links.
+Entra a la carpeta **md** y guarda, con nombre **README.md**, el archivo del que requieras extraer los links.
 
 ![GetLink](./css/assets/images/GetImage-3.png)
 
@@ -72,11 +72,11 @@ Incluye en tu HTML el siguiente \<script>
 
 \<script src="./lib/getLinkInput.js"></script>
 
-#### Ingresa el texto en el recuedro y da click en GetLink
+#### Ingresa el texto en el recuadro y da click en GetLink
 
 ![GetLink](./css/assets/images/GetImage-1.png)
 
-#### En la parte inferior tendras como resultado un array con objetos
+#### En la parte inferior tendras como resultado un array de objetos
 
 ![GetLink](./css/assets/images/GetImage-2.png)
 
